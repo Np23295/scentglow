@@ -1,0 +1,21 @@
+body {
+    color: #594d49;
+}
+
+.container {
+    background-image: url(../images/logo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 85vh;
+}
+
+footer {
+    text-align: center;
+}
+
+h3 {
+    flex-grow: 1;
+}
+
+
